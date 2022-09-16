@@ -57,6 +57,9 @@ console.error('Error at server launch:', err);
 
 
 
+const arr = [1, 2, 3];
+arr.length = 4;
+console.log(arr.length);
 
 // const {getCurrentDate} = require('./dateUtiles');
 
