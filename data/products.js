@@ -1,6 +1,6 @@
 const products = [
   {
-   id: 345,
+   id: "345",
    name: "iPhone",
    price: 3400,
   },
